@@ -8,3 +8,5 @@ phases:
 artifacts:
   files:
     - 'build/libs/*-SNAPSHOT.jar'
+  base-directory: 'build/libs'
+  discard-paths: yes
