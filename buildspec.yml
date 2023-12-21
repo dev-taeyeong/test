@@ -7,4 +7,6 @@ phases:
 
 artifacts:
   files:
-    - build/libs/*.jar
+    - 'build/libs/*.jar'
+  exclude:
+    - '**/*plain.jar'
