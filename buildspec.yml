@@ -7,5 +7,5 @@ phases:
 
 artifacts:
   files:
-    - 'build/libs/*-SNAPSHOT.jar'
+    - '*-SNAPSHOT.jar'
   base-directory: 'build/libs'
